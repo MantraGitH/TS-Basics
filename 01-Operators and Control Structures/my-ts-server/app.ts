@@ -5,7 +5,7 @@
 // *   that represent all types of control structures that exist
 // *   in your language:
 // *   Conditionals, loops, exceptions...
-// * - You must print the result of all the examples to the console.
+// * - You must print the result of all the examples to the console....
 // *
 // * EXTRA DIFFICULTY (optional):
 // * Create a program that prints to the console all the numbers between
